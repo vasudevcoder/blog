@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Life of Geek
+description: Here are thoughts of a coder from India.
 
-url: https://vasudevcoder.github.io/long-haul
+url: https://vasudevcoder.github.io/blog
 baseurl: "/long-haul"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,8 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: vasudevcoder
+   twitter: vasudevcoder
+   email: vasudevcoder@gmail.com
 
 google_analytics: "UA-58263416-1"
